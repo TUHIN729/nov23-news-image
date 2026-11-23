@@ -1,8 +1,8 @@
 # One Day, One World — Monday 23 November 2026
 
-[![make.fun bounty: news-image-20261123](https://img.shields.io/badge/make.fun-news--image--20261123-blue)](https://make.fun/bounty/news-image-20261123)
-[![news-image-20261123 pot: $100](https://img.shields.io/badge/news--image--20261123-pot--%24100-green)](https://make.fun/bounty/news-image-20261123)
-[![news-image-20261123 deadline: 25 Nov 2026](https://img.shields.io/badge/news--image--20261123-deadline--25--Nov--2026-orange)](https://make.fun/bounty/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/TUHIN729/nov23-news-image/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/TUHIN729/nov23-news-image/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 A program that draws a newspaper front page summing up **23 November 2026's
 world news in one image** — an entry for the make.fun bounty
@@ -57,8 +57,9 @@ Two runs produce byte-identical output (verified: same SHA-256).
 ## Note on the kit
 
 The official kit (`https://make.fun/c/news-image-20261123/kit`) returned
-HTTP 503 "kit being built" on every attempt for 30+ minutes while this entry
-was built, so the kit's README template could not be read. This README and
-the entrypoint follow the bounty requirements as published
-(`main.py` writing one 1024x1024 PNG to `/output/entry.png`); please check
-the README badges against the kit template before submitting.
+HTTP 503 "kit being built" on every attempt for 40+ minutes while this entry
+was built, so the kit's README template could not be read. The README badges
+above are the competition's three live make.fun badges, fixed in after the
+server's intake check asked for them. The entrypoint follows the bounty
+requirements as published (`main.py` writing one 1024x1024 PNG to
+`/output/entry.png`).
